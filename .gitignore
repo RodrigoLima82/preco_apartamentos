@@ -1,0 +1,6 @@
+
+.DS_Store
+.ipynb_checkpoints/desafio_grupo_zap-checkpoint.ipynb
+data/source-4-ds-test.json
+data/source-4-ds-train.json
+images/loc_cidade_p.shp
