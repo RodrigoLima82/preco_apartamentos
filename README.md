@@ -1,4 +1,4 @@
-# Desafio Grupo ZAP - Previsão valor de venda de apartamentos
+# Previsão valor de venda de apartamentos
 # Autor: Rodrigo de Lima Oliveira
 
 Objetivo:
